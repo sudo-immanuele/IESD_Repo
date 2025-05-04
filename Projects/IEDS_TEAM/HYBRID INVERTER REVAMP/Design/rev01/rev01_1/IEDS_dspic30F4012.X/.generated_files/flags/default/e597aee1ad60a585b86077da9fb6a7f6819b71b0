@@ -1,0 +1,1 @@
+ -c -mcpu=$(MP_PROCESSOR_OPTION)        -g -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -O0 -msmart-io=1 -Wall -msfr-warn=off    -mdfp="${DFP_DIR}/xc16"C:\Users\Emmanuel (Steama.co)\Documents\GitHub\IESD_Repo\Projects\IEDS_TEAM\HYBRID INVERTER REVAMP\Design\rev01\rev01_1\IEDS_dspic30F4012.X\newmain.c
